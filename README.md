@@ -21,6 +21,17 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 ✅ **Matplotlib e Seaborn** – Visualização e interpretação de padrões de consumo.  
 ✅ **GitHub** – Versionamento e controle do código-fonte.  
 
+
+
+2️⃣ Acesse o notebook no Google Colab e execute as células para rodar as análises.
+
+Caso prefira executar localmente, instale os pacotes necessários:
+
+
+
+Modificador
+pip install pandas numpy scikit-learn faiss-cpu matplotlib seaborn
+
 ---
 
 ## **📂 Estrutura do Repositório**  
@@ -59,3 +70,13 @@ A interpretação dos resultados foi facilitada por gráficos gerados com **Matp
 1️⃣ **Clone este repositório:**  
 ```bash
 git clone https://github.com/Negosea/bigdata-ecommerce.git
+
+2️⃣ Acesse o notebook no Google Colab e execute as células para rodar as análises.
+
+Caso prefira executar localmente, instale os pacotes necessários:
+
+
+
+Modificador
+pip install pandas numpy scikit-learn faiss-cpu matplotlib seaborn
+
